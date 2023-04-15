@@ -1,0 +1,4 @@
+repository "portal@superprosigner1@cloud"
+  path "/"
+    br "/main"
+    co "/main"
